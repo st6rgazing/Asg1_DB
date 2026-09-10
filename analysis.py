@@ -1,7 +1,6 @@
 import pandas as pd
-import numpy as np
 
-df = pd.read_csv('Assignment 1/online_delivery.csv')
+df = pd.read_csv('online_delivery.csv')
 
 # print the first 2 rows
 print("First 2 rows:")
